@@ -1,0 +1,68 @@
+body {
+
+    background-color: black;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+input[type=button] {
+
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 15px 15px 15px; 
+    text-align: center;
+    border: 3px solid aquamarine;
+
+}
+
+#device {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 15px 15px 15px 15px; 
+    text-align: center;
+    border: 3px solid aquamarine;
+}
+#data {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 15px 15px 15px 15px; 
+    text-align: center;
+    border: 3px solid green;
+  }
+
+  #data2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 15px 15px 15px 15px; 
+    text-align: center;
+    border: 3px solid green;
+  }
+
+  #data3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 15px 15px 15px 15px; 
+    text-align: center;
+    border: 3px solid green;
+  }
